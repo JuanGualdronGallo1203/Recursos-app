@@ -1,0 +1,264 @@
+[
+    {
+        "id_libro": "1",
+        "titulo": "Cien años de soledad",
+        "autor": "Gabriel García Márquez",
+        "año_publicacion": 1967,
+        "generos_id": [
+            "6",
+            "19"
+        ],
+        "sinopsis": "La historia multigeneracional de la familia Buendía en el pueblo ficticio de Macondo."
+    },
+    {
+        "id_libro": "2",
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "año_publicacion": 1949,
+        "generos_id": [
+            "25",
+            "5"
+        ],
+        "sinopsis": "Una novela distópica sobre un mundo totalitario donde el Gran Hermano lo ve todo."
+    },
+    {
+        "id_libro": "3",
+        "titulo": "Harry Potter y la Piedra Filosofal",
+        "autor": "J.K. Rowling",
+        "año_publicacion": 1997,
+        "generos_id": [
+            "6",
+            "11",
+            "19"
+        ],
+        "sinopsis": "Un niño huérfano descubre que es un mago y asiste a una escuela de magia."
+    },
+    {
+        "id_libro": "4",
+        "titulo": "El código Da Vinci",
+        "autor": "Dan Brown",
+        "año_publicacion": 2003,
+        "generos_id": [
+            "10",
+            "8",
+            "11"
+        ],
+        "sinopsis": "Un simbologista de Harvard se ve envuelto en un misterio que involucra a la Iglesia Católica."
+    },
+    {
+        "id_libro": "5",
+        "titulo": "Orgullo y prejuicio",
+        "autor": "Jane Austen",
+        "año_publicacion": 1813,
+        "generos_id": [
+            "7",
+            "2",
+            "15"
+        ],
+        "sinopsis": "La historia de Elizabeth Bennet y su compleja relación con el señor Darcy."
+    },
+    {
+        "id_libro": "6",
+        "titulo": "El señor de los anillos",
+        "autor": "J.R.R. Tolkien",
+        "año_publicacion": 1954,
+        "generos_id": [
+            "6",
+            "11",
+            "2"
+        ],
+        "sinopsis": "La épica aventura de Frodo Bolsón para destruir el Anillo Único."
+    },
+    {
+        "id_libro": "7",
+        "titulo": "Crimen y castigo",
+        "autor": "Fiódor Dostoyevski",
+        "año_publicacion": 1866,
+        "generos_id": [
+            "2",
+            "9",
+            "8"
+        ],
+        "sinopsis": "La historia psicológica de un estudiante que comete un asesinato y su posterior tormento moral."
+    },
+    {
+        "id_libro": "8",
+        "titulo": "Drácula",
+        "autor": "Bram Stoker",
+        "año_publicacion": 1897,
+        "generos_id": [
+            "4",
+            "20",
+            "8"
+        ],
+        "sinopsis": "La historia del vampiro más famoso de la literatura y su llegada a Inglaterra."
+    },
+    {
+        "id_libro": "9",
+        "titulo": "El gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "año_publicacion": 1925,
+        "generos_id": [
+            "2",
+            "7",
+            "15"
+        ],
+        "sinopsis": "La historia de Jay Gatsby y su obsesión por Daisy Buchanan en los años 20."
+    },
+    {
+        "id_libro": "10",
+        "titulo": "Frankenstein",
+        "autor": "Mary Shelley",
+        "año_publicacion": 1818,
+        "generos_id": [
+            "5",
+            "4",
+            "20"
+        ],
+        "sinopsis": "Un científico crea vida artificial y las terribles consecuencias de su experimento."
+    },
+    {
+        "id_libro": "11",
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "año_publicacion": 1605,
+        "generos_id": [
+            "3",
+            "11",
+            "15"
+        ],
+        "sinopsis": "Las aventuras de un hidalgo que enloquece leyendo libros de caballerías."
+    },
+    {
+        "id_libro": "12",
+        "titulo": "Matar a un ruiseñor",
+        "autor": "Harper Lee",
+        "año_publicacion": 1960,
+        "generos_id": [
+            "2",
+            "23",
+            "15"
+        ],
+        "sinopsis": "Una niña observa cómo su padre defiende a un hombre negro acusado injustamente."
+    },
+    {
+        "id_libro": "13",
+        "titulo": "El hobbit",
+        "autor": "J.R.R. Tolkien",
+        "año_publicacion": 1937,
+        "generos_id": [
+            "6",
+            "11",
+            "19"
+        ],
+        "sinopsis": "Las aventuras de Bilbo Bolsón en su viaje para recuperar el tesoro del dragón Smaug."
+    },
+    {
+        "id_libro": "14",
+        "titulo": "La metamorfosis",
+        "autor": "Franz Kafka",
+        "año_publicacion": 1915,
+        "generos_id": [
+            "2",
+            "6",
+            "20"
+        ],
+        "sinopsis": "Un hombre se despierta convertido en un insecto gigante y las consecuencias familiares."
+    },
+    {
+        "id_libro": "15",
+        "titulo": "Los juegos del hambre",
+        "autor": "Suzanne Collins",
+        "año_publicacion": 2008,
+        "generos_id": [
+            "25",
+            "1",
+            "11"
+        ],
+        "sinopsis": "En un futuro distópico, jóvenes deben luchar a muerte en una arena televisada."
+    },
+    {
+        "id_libro": "16",
+        "titulo": "El retrato de Dorian Gray",
+        "autor": "Oscar Wilde",
+        "año_publicacion": 1890,
+        "generos_id": [
+            "2",
+            "20",
+            "6"
+        ],
+        "sinopsis": "Un joven hace un pacto para que su retrato envejezca en lugar de él."
+    },
+    {
+        "id_libro": "17",
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "año_publicacion": 1953,
+        "generos_id": [
+            "25",
+            "5",
+            "2"
+        ],
+        "sinopsis": "En una sociedad futura donde los libros están prohibidos, un bombero comienza a cuestionarse."
+    },
+    {
+        "id_libro": "18",
+        "titulo": "El extranjero",
+        "autor": "Albert Camus",
+        "año_publicacion": 1942,
+        "generos_id": [
+            "2",
+            "9",
+            "6"
+        ],
+        "sinopsis": "Un hombre indiferente comete un crimen y enfrenta las consecuencias de su acto."
+    },
+    {
+        "id_libro": "19",
+        "titulo": "Jane Eyre",
+        "autor": "Charlotte Brontë",
+        "año_publicacion": 1847,
+        "generos_id": [
+            "7",
+            "2",
+            "15"
+        ],
+        "sinopsis": "Una huérfana se convierte en institutriz y se enamora de su misterioso empleador."
+    },
+    {
+        "id_libro": "20",
+        "titulo": "El nombre del viento",
+        "autor": "Patrick Rothfuss",
+        "año_publicacion": 2007,
+        "generos_id": [
+            "6",
+            "11",
+            "2"
+        ],
+        "sinopsis": "La historia de Kvothe, un legendario héroe que narra su propia historia."
+    },
+    {
+        "id_libro": "21",
+        "titulo": "Cumbres borrascosas",
+        "autor": "Emily Brontë",
+        "año_publicacion": 1847,
+        "generos_id": [
+            "7",
+            "2",
+            "4"
+        ],
+        "sinopsis": "La tormentosa historia de amor entre Heathcliff y Catherine Earnshaw."
+    },
+    {
+        "id_libro": "22",
+        "titulo": "El guardián entre el centeno",
+        "autor": "J.D. Salinger",
+        "año_publicacion": 1951,
+        "generos_id": [
+            "2",
+            "3",
+            "19"
+        ],
+        "sinopsis": "Un adolescente rebelde vaga por Nueva York después de ser expulsado de la escuela."
+    }
+]
