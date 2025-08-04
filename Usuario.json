@@ -1,0 +1,202 @@
+[
+    {
+        "id_usuario": "1",
+        "Nombre_usuario": "Juan Carlos",
+        "Apellido_usuario": "Perez Gomez",
+        "Correo_usuario": "juanperezgomez@gmail.com",
+        "Telefono_usuario": "1234567890",
+        "Direccion_usuario": "Calle 123, Ciudad 1, Estado 1",
+        "Fecha_nacimiento": "1990-01-01",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "2",
+        "Nombre_usuario": "Maria Carmen",
+        "Apellido_usuario": "Rodriguez Lopez",
+        "Correo_usuario": "mariacarmen@gmail.com",
+        "Telefono_usuario": "9876543210",
+        "Direccion_usuario": "Calle 456, Ciudad 2, Estado 2",
+        "Fecha_nacimiento": "1995-01-01",
+        "Sexo_usuario": "Femenino"
+    },
+    {
+        "id_usuario": "3",
+        "Nombre_usuario": "Carlos Alberto",
+        "Apellido_usuario": "Martinez Silva",
+        "Correo_usuario": "carlosalberto@hotmail.com",
+        "Telefono_usuario": "3001234567",
+        "Direccion_usuario": "Carrera 15 #45-20, Bogotá, Cundinamarca",
+        "Fecha_nacimiento": "1988-03-15",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "4",
+        "Nombre_usuario": "Ana Sofia",
+        "Apellido_usuario": "Gutierrez Morales",
+        "Correo_usuario": "anasofia.gm@gmail.com",
+        "Telefono_usuario": "3109876543",
+        "Direccion_usuario": "Avenida 80 #12-34, Medellín, Antioquia",
+        "Fecha_nacimiento": "1992-07-22",
+        "Sexo_usuario": "Femenino"
+    },
+    {
+        "id_usuario": "5",
+        "Nombre_usuario": "Luis Eduardo",
+        "Apellido_usuario": "Ramirez Castro",
+        "Correo_usuario": "luiseduardo@outlook.com",
+        "Telefono_usuario": "3205551234",
+        "Direccion_usuario": "Calle 72 #10-15, Cali, Valle del Cauca",
+        "Fecha_nacimiento": "1985-11-08",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "6",
+        "Nombre_usuario": "Patricia Elena",
+        "Apellido_usuario": "Vargas Herrera",
+        "Correo_usuario": "patricia.vargas@yahoo.com",
+        "Telefono_usuario": "3158889999",
+        "Direccion_usuario": "Transversal 25 #30-45, Barranquilla, Atlántico",
+        "Fecha_nacimiento": "1993-04-12",
+        "Sexo_usuario": "Femenino"
+    },
+    {
+        "id_usuario": "7",
+        "Nombre_usuario": "Miguel Angel",
+        "Apellido_usuario": "Torres Jimenez",
+        "Correo_usuario": "miguelangel.torres@gmail.com",
+        "Telefono_usuario": "3007776666",
+        "Direccion_usuario": "Calle 50 #20-30, Cartagena, Bolívar",
+        "Fecha_nacimiento": "1987-09-25",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "8",
+        "Nombre_usuario": "Isabella",
+        "Apellido_usuario": "Mendoza Ruiz",
+        "Correo_usuario": "isabella.mendoza@hotmail.com",
+        "Telefono_usuario": "3124445555",
+        "Direccion_usuario": "Carrera 7 #85-12, Bucaramanga, Santander",
+        "Fecha_nacimiento": "1996-12-03",
+        "Sexo_usuario": "Femenino"
+    },
+    {
+        "id_usuario": "9",
+        "Nombre_usuario": "Alejandro",
+        "Apellido_usuario": "Ospina Cardenas",
+        "Correo_usuario": "alejandro.ospina@gmail.com",
+        "Telefono_usuario": "3186667777",
+        "Direccion_usuario": "Avenida 19 #40-60, Pereira, Risaralda",
+        "Fecha_nacimiento": "1991-06-18",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "10",
+        "Nombre_usuario": "Valentina",
+        "Apellido_usuario": "Castillo Vega",
+        "Correo_usuario": "valentina.castillo@outlook.com",
+        "Telefono_usuario": "3013338888",
+        "Direccion_usuario": "Calle 35 #15-25, Manizales, Caldas",
+        "Fecha_nacimiento": "1994-02-14",
+        "Sexo_usuario": "Femenino"
+    },
+    {
+        "id_usuario": "11",
+        "Nombre_usuario": "Ricardo",
+        "Apellido_usuario": "Moreno Delgado",
+        "Correo_usuario": "ricardo.moreno@yahoo.com",
+        "Telefono_usuario": "3172223333",
+        "Direccion_usuario": "Carrera 30 #55-40, Ibagué, Tolima",
+        "Fecha_nacimiento": "1989-10-30",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "12",
+        "Nombre_usuario": "Camila Andrea",
+        "Apellido_usuario": "Sánchez Parra",
+        "Correo_usuario": "camila.sanchez@gmail.com",
+        "Telefono_usuario": "3051112222",
+        "Direccion_usuario": "Avenida 68 #22-50, Villavicencio, Meta",
+        "Fecha_nacimiento": "1997-08-07",
+        "Sexo_usuario": "Femenino"
+    },
+    {
+        "id_usuario": "13",
+        "Nombre_usuario": "Diego Fernando",
+        "Apellido_usuario": "Lozano Restrepo",
+        "Correo_usuario": "diego.lozano@hotmail.com",
+        "Telefono_usuario": "3199994444",
+        "Direccion_usuario": "Calle 18 #8-35, Neiva, Huila",
+        "Fecha_nacimiento": "1986-05-20",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "14",
+        "Nombre_usuario": "Natalia",
+        "Apellido_usuario": "Aguilar Rojas",
+        "Correo_usuario": "natalia.aguilar@gmail.com",
+        "Telefono_usuario": "3088887777",
+        "Direccion_usuario": "Transversal 12 #65-15, Pasto, Nariño",
+        "Fecha_nacimiento": "1998-01-28",
+        "Sexo_usuario": "Femenino"
+    },
+    {
+        "id_usuario": "15",
+        "Nombre_usuario": "Andrés Felipe",
+        "Apellido_usuario": "Quintero Mejía",
+        "Correo_usuario": "andres.quintero@outlook.com",
+        "Telefono_usuario": "3146665555",
+        "Direccion_usuario": "Calle 42 #28-60, Armenia, Quindío",
+        "Fecha_nacimiento": "1984-12-11",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "16",
+        "Nombre_usuario": "Carolina",
+        "Apellido_usuario": "Herrera Molina",
+        "Correo_usuario": "carolina.herrera@yahoo.com",
+        "Telefono_usuario": "3025554444",
+        "Direccion_usuario": "Carrera 25 #38-22, Popayán, Cauca",
+        "Fecha_nacimiento": "1990-09-16",
+        "Sexo_usuario": "Femenino"
+    },
+    {
+        "id_usuario": "17",
+        "Nombre_usuario": "Sebastián",
+        "Apellido_usuario": "Ríos Fernández",
+        "Correo_usuario": "sebastian.rios@gmail.com",
+        "Telefono_usuario": "3111113333",
+        "Direccion_usuario": "Avenida 45 #18-40, Montería, Córdoba",
+        "Fecha_nacimiento": "1995-03-09",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "18",
+        "Nombre_usuario": "Sofía Alejandra",
+        "Apellido_usuario": "Guerrero Pineda",
+        "Correo_usuario": "sofia.guerrero@hotmail.com",
+        "Telefono_usuario": "3166662222",
+        "Direccion_usuario": "Calle 60 #14-75, Sincelejo, Sucre",
+        "Fecha_nacimiento": "1999-11-24",
+        "Sexo_usuario": "Femenino"
+    },
+    {
+        "id_usuario": "19",
+        "Nombre_usuario": "Julián David",
+        "Apellido_usuario": "Acosta Navarro",
+        "Correo_usuario": "julian.acosta@outlook.com",
+        "Telefono_usuario": "3033339999",
+        "Direccion_usuario": "Transversal 8 #52-30, Tunja, Boyacá",
+        "Fecha_nacimiento": "1987-04-05",
+        "Sexo_usuario": "Masculino"
+    },
+    {
+        "id_usuario": "20",
+        "Nombre_usuario": "Daniela",
+        "Apellido_usuario": "Correa Salazar",
+        "Correo_usuario": "daniela.correa@gmail.com",
+        "Telefono_usuario": "3077778888",
+        "Direccion_usuario": "Carrera 18 #33-45, Valledupar, Cesar",
+        "Fecha_nacimiento": "1993-07-13",
+        "Sexo_usuario": "Femenino"
+    }
+]
