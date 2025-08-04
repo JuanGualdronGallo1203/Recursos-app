@@ -1,0 +1,177 @@
+[
+    {
+        "id_genero": "1",
+        "nombre_genero": "Acción",
+        "descripcion": "Género caracterizado por secuencias de alta energía, persecuciones, combates y efectos especiales",
+        "popularidad": "Alta",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "2",
+        "nombre_genero": "Drama",
+        "descripcion": "Género que se centra en el desarrollo emocional de los personajes y situaciones realistas",
+        "popularidad": "Alta",
+        "target_audiencia": "Adultos"
+        },
+    {
+        "id_genero": "3",
+        "nombre_genero": "Comedia",
+        "descripcion": "Género diseñado para divertir y provocar risa a través del humor",
+        "popularidad": "Alta",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "4",
+        "nombre_genero": "Terror",
+        "descripcion": "Género que busca crear suspenso, miedo y tensión en la audiencia",
+        "popularidad": "Media",
+        "target_audiencia": "Adultos"
+    },
+    {
+        "id_genero": "5",
+        "nombre_genero": "Ciencia Ficción",
+        "descripcion": "Género que explora conceptos futuristas, tecnología avanzada y mundos alternativos",
+        "popularidad": "Alta",
+        "target_audiencia": "Adolescentes y adultos"
+    },
+    {
+        "id_genero": "6",
+        "nombre_genero": "Fantasía",
+        "descripcion": "Género que incluye elementos mágicos, sobrenaturales y mundos imaginarios",
+        "popularidad": "Alta",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "7",
+        "nombre_genero": "Romance",
+        "descripcion": "Género centrado en relaciones amorosas y vínculos emocionales entre personajes",
+        "popularidad": "Alta",
+        "target_audiencia": "Adolescentes y adultos"
+    },
+    {
+        "id_genero": "8",
+        "nombre_genero": "Thriller",
+        "descripcion": "Género que mantiene al espectador en constante tensión y suspenso",
+        "popularidad": "Alta",
+        "target_audiencia": "Adultos"
+    },
+    {
+        "id_genero": "9",
+        "nombre_genero": "Crimen",
+        "descripcion": "Género que gira en torno a actividades criminales, investigaciones y justicia",
+        "popularidad": "Alta",
+        "target_audiencia": "Adultos"
+    },
+    {
+        "id_genero": "10",
+        "nombre_genero": "Misterio",
+        "descripcion": "Género que presenta enigmas y casos por resolver, manteniendo la intriga",
+        "popularidad": "Media",
+        "target_audiencia": "Adolescentes y adultos"
+    },
+    {
+        "id_genero": "11",
+        "nombre_genero": "Aventura",
+        "descripcion": "Género que presenta viajes épicos, exploración y hazañas heroicas",
+        "popularidad": "Alta",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "12",
+        "nombre_genero": "Western",
+        "descripcion": "Género ambientado en el Oeste americano del siglo XIX, con vaqueros y frontera",
+        "popularidad": "Media",
+        "target_audiencia": "Adultos"
+    },
+    {
+        "id_genero": "13",
+        "nombre_genero": "Documental",
+        "descripcion": "Género que presenta hechos reales, educativos o informativos de manera narrativa",
+        "popularidad": "Media",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "14",
+        "nombre_genero": "Biografía",
+        "descripcion": "Género que narra la vida real de personas famosas o históricamente importantes",
+        "popularidad": "Media",
+        "target_audiencia": "Adultos"
+    },
+    {
+        "id_genero": "15",
+        "nombre_genero": "Historia",
+        "descripcion": "Género ambientado en períodos históricos específicos con precisión temporal",
+        "popularidad": "Media",
+        "target_audiencia": "Adolescentes y adultos"
+    },
+    {
+        "id_genero": "16",
+        "nombre_genero": "Musical",
+        "descripcion": "Género que incorpora canciones y números musicales como parte integral de la narrativa",
+        "popularidad": "Media",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "17",
+        "nombre_genero": "Animación",
+        "descripcion": "Género que utiliza técnicas de animación para contar historias",
+        "popularidad": "Alta",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "18",
+        "nombre_genero": "Deportes",
+        "descripcion": "Género centrado en actividades deportivas, competencias y atletas",
+        "popularidad": "Media",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "19",
+        "nombre_genero": "Familia",
+        "descripcion": "Género apropiado para toda la familia con valores positivos y contenido seguro",
+        "popularidad": "Alta",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "20",
+        "nombre_genero": "Supernatural",
+        "descripcion": "Género que incluye elementos sobrenaturales, paranormales y fenómenos inexplicables",
+        "popularidad": "Media",
+        "target_audiencia": "Adolescentes y adultos"
+    },
+    {
+        "id_genero": "21",
+        "nombre_genero": "Espionaje",
+        "descripcion": "Género centrado en espías, operaciones encubiertas y intriga internacional",
+        "popularidad": "Media",
+        "target_audiencia": "Adultos"
+    },
+    {
+        "id_genero": "22",
+        "nombre_genero": "Médico",
+        "descripcion": "Género ambientado en hospitales y centros médicos, enfocado en la medicina",
+        "popularidad": "Alta",
+        "target_audiencia": "Adultos"
+    },
+    {
+        "id_genero": "23",
+        "nombre_genero": "Legal",
+        "descripcion": "Género centrado en el sistema legal, abogados, juicios y justicia",
+        "popularidad": "Media",
+        "target_audiencia": "Adultos"
+    },
+    {
+        "id_genero": "24",
+        "nombre_genero": "Reality Show",
+        "descripcion": "Género que presenta situaciones reales con personas no actores en diversos contextos",
+        "popularidad": "Alta",
+        "target_audiencia": "Todas las edades"
+    },
+    {
+        "id_genero": "25",
+        "nombre_genero": "Distopía",
+        "descripcion": "Género que presenta sociedades futuras opresivas y mundos post-apocalípticos",
+        "popularidad": "Media",
+        "target_audiencia": "Adolescentes y adultos"
+    }
+]
