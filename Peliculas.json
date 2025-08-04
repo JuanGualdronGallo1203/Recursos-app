@@ -1,0 +1,162 @@
+[
+    {
+        "id_pelicula": "1",
+        "titulo": "El Padrino",
+        "director": "Francis Ford Coppola",
+        "año_publicacion": 1972,
+        "generos_id": ["2", "9"],
+        "sinopsis": "La saga de la familia Corleone y su imperio criminal en la América de los años 40."
+    },
+    {
+        "id_pelicula": "2",
+        "titulo": "Star Wars: Episodio IV - Una nueva esperanza",
+        "director": "George Lucas",
+        "año_publicacion": 1977,
+        "generos_id": ["5", "11", "6"],
+        "sinopsis": "Un joven granjero se une a una rebelión contra un imperio galáctico opresor."
+    },
+    {
+        "id_pelicula": "3",
+        "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+        "director": "Peter Jackson",
+        "año_publicacion": 2001,
+        "generos_id": ["6", "11", "2"],
+        "sinopsis": "Un hobbit emprende un viaje épico para destruir un anillo malévolo."
+    },
+    {
+        "id_pelicula": "4",
+        "titulo": "Tiburón",
+        "director": "Steven Spielberg",
+        "año_publicacion": 1975,
+        "generos_id": ["4", "8"],
+        "sinopsis": "Un tiburón asesino aterroriza una pequeña comunidad costera."
+    },
+    {
+        "id_pelicula": "5",
+        "titulo": "Forrest Gump",
+        "director": "Robert Zemeckis",
+        "año_publicacion": 1994,
+        "generos_id": ["2", "3", "15"],
+        "sinopsis": "La vida de un hombre con discapacidad intelectual que vive eventos históricos importantes."
+    },
+    {
+        "id_pelicula": "6",
+        "titulo": "El Exorcista",
+        "director": "William Friedkin",
+        "año_publicacion": 1973,
+        "generos_id": ["4", "20"],
+        "sinopsis": "Una niña poseída por un demonio requiere la intervención de dos sacerdotes."
+    },
+    {
+        "id_pelicula": "7",
+        "titulo": "Pulp Fiction",
+        "director": "Quentin Tarantino",
+        "año_publicacion": 1994,
+        "generos_id": ["9", "3", "8"],
+        "sinopsis": "Historias interconectadas de criminales en Los Ángeles."
+    },
+    {
+        "id_pelicula": "8",
+        "titulo": "Titanic",
+        "director": "James Cameron",
+        "año_publicacion": 1997,
+        "generos_id": ["7", "2", "15"],
+        "sinopsis": "Una historia de amor entre pasajeros de diferentes clases sociales en el fatídico viaje del Titanic."
+    },
+    {
+        "id_pelicula": "9",
+        "titulo": "Matrix",
+        "director": "Lana y Lilly Wachowski",
+        "año_publicacion": 1999,
+        "generos_id": ["5", "1", "25"],
+        "sinopsis": "Un hacker descubre que la realidad es una simulación creada por máquinas inteligentes."
+    },
+    {
+        "id_pelicula": "10",
+        "titulo": "El silencio de los inocentes",
+        "director": "Jonathan Demme",
+        "año_publicacion": 1991,
+        "generos_id": ["8", "9", "4"],
+        "sinopsis": "Una joven agente del FBI busca la ayuda de un asesino en serie encarcelado para atrapar a otro."
+    },
+    {
+        "id_pelicula": "11",
+        "titulo": "Gladiador",
+        "director": "Ridley Scott",
+        "año_publicacion": 2000,
+        "generos_id": ["1", "2", "15"],
+        "sinopsis": "Un general romano traicionado busca venganza como gladiador."
+    },
+    {
+        "id_pelicula": "12",
+        "titulo": "Toy Story",
+        "director": "John Lasseter",
+        "año_publicacion": 1995,
+        "generos_id": ["17", "19", "3"],
+        "sinopsis": "Los juguetes de un niño cobran vida cuando los humanos no están presentes."
+    },
+    {
+        "id_pelicula": "13",
+        "titulo": "Inception",
+        "director": "Christopher Nolan",
+        "año_publicacion": 2010,
+        "generos_id": ["5", "8", "11"],
+        "sinopsis": "Un ladrón especializado en robar secretos del subconsciente enfrenta su misión más difícil."
+    },
+    {
+        "id_pelicula": "14",
+        "titulo": "El Rey León",
+        "director": "Roger Allers, Rob Minkoff",
+        "año_publicacion": 1994,
+        "generos_id": ["17", "19", "2"],
+        "sinopsis": "Un joven león debe reclamar su lugar como rey después del asesinato de su padre."
+    },
+    {
+        "id_pelicula": "15",
+        "titulo": "Jurassic Park",
+        "director": "Steven Spielberg",
+        "año_publicacion": 1993,
+        "generos_id": ["5", "1", "11"],
+        "sinopsis": "Un parque temático con dinosaurios clonados se convierte en una pesadilla cuando escapan."
+    },
+    {
+        "id_pelicula": "16",
+        "titulo": "Casablanca",
+        "director": "Michael Curtiz",
+        "año_publicacion": 1942,
+        "generos_id": ["7", "2", "15"],
+        "sinopsis": "Un expatriado americano en Casablanca debe elegir entre su amor y ayudar a su amada a escapar de los nazis."
+    },
+    {
+        "id_pelicula": "17",
+        "titulo": "Harry Potter y la piedra filosofal",
+        "director": "Chris Columbus",
+        "año_publicacion": 2001,
+        "generos_id": ["6", "11", "19"],
+        "sinopsis": "Un niño descubre que es un mago y asiste a una escuela de magia."
+    },
+    {
+        "id_pelicula": "18",
+        "titulo": "Rocky",
+        "director": "John G. Avildsen",
+        "año_publicacion": 1976,
+        "generos_id": ["2", "18"],
+        "sinopsis": "Un boxeador desconocido obtiene una oportunidad improbable por el título mundial."
+    },
+    {
+        "id_pelicula": "19",
+        "titulo": "Los juegos del hambre",
+        "director": "Gary Ross",
+        "año_publicacion": 2012,
+        "generos_id": ["25", "1", "11"],
+        "sinopsis": "En un futuro distópico, jóvenes deben luchar a muerte en una arena televisada."
+    },
+    {
+        "id_pelicula": "20",
+        "titulo": "El resplandor",
+        "director": "Stanley Kubrick",
+        "año_publicacion": 1980,
+        "generos_id": ["4", "20", "8"],
+        "sinopsis": "Un escritor y su familia se convierten en cuidadores de un hotel aislado donde ocurren fenómenos sobrenaturales."
+    }
+]
