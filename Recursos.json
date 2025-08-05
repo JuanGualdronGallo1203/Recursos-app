@@ -1,0 +1,602 @@
+[
+    {
+        "id_recurso": 1,
+        "id_usuario": 1,
+        "formato": "Libro",
+        "id_contenido": 1,
+        "plataforma": "Kindle",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-01-15",
+        "valoracion": 5,
+        "reseña": "Una obra maestra de la literatura universal"
+    },
+    {
+        "id_recurso": 2,
+        "id_usuario": 1,
+        "formato": "Película",
+        "id_contenido": 1,
+        "plataforma": "Netflix",
+        "estado": "En progreso",
+        "reseña": "Buena adaptación del libro"
+    },
+    {
+        "id_recurso": 3,
+        "id_usuario": 2,
+        "formato": "Serie",
+        "id_contenido": 2,
+        "plataforma": "HBO Max",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-02-20",
+        "valoracion": 4,
+        "reseña": "Excelente desarrollo de personajes"
+    },
+    {
+        "id_recurso": 4,
+        "id_usuario": 2,
+        "formato": "Libro",
+        "id_contenido": 3,
+        "plataforma": "Audible",
+        "estado": "Pendiente",
+        "reseña": "Lo comenzaré la próxima semana"
+    },
+    {
+        "id_recurso": 5,
+        "id_usuario": 3,
+        "formato": "Película",
+        "id_contenido": 4,
+        "plataforma": "Disney+",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-03-10",
+        "valoracion": 3,
+        "reseña": "Entretenida pero predecible"
+    },
+    {
+        "id_recurso": 6,
+        "id_usuario": 3,
+        "formato": "Serie",
+        "id_contenido": 5,
+        "plataforma": "Prime Video",
+        "estado": "En progreso",
+        "reseña": "Muy adictiva, no puedo parar de verla"
+    },
+    {
+        "id_recurso": 7,
+        "id_usuario": 4,
+        "formato": "Libro",
+        "id_contenido": 6,
+        "plataforma": "Físico",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-04-05",
+        "valoracion": 5,
+        "reseña": "Lo mejor que he leído este año"
+    },
+    {
+        "id_recurso": 8,
+        "id_usuario": 4,
+        "formato": "Película",
+        "id_contenido": 7,
+        "plataforma": "Apple TV",
+        "estado": "Pendiente",
+        "reseña": "Esperando verla con amigos"
+    },
+    {
+        "id_recurso": 9,
+        "id_usuario": 5,
+        "formato": "Serie",
+        "id_contenido": 8,
+        "plataforma": "Netflix",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-05-12",
+        "valoracion": 4,
+        "reseña": "Final inesperado, muy bien escrita"
+    },
+    {
+        "id_recurso": 10,
+        "id_usuario": 5,
+        "formato": "Libro",
+        "id_contenido": 9,
+        "plataforma": "Kindle",
+        "estado": "En progreso",
+        "reseña": "Interesante pero algo lento"
+    },
+    {
+        "id_recurso": 11,
+        "id_usuario": 6,
+        "formato": "Película",
+        "id_contenido": 10,
+        "plataforma": "HBO Max",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-06-18",
+        "valoracion": 2,
+        "reseña": "No cumplió mis expectativas"
+    },
+    {
+        "id_recurso": 12,
+        "id_usuario": 6,
+        "formato": "Serie",
+        "id_contenido": 11,
+        "plataforma": "Disney+",
+        "estado": "Pendiente",
+        "reseña": "En mi lista para el fin de semana"
+    },
+    {
+        "id_recurso": 13,
+        "id_usuario": 7,
+        "formato": "Libro",
+        "id_contenido": 12,
+        "plataforma": "Audible",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-07-22",
+        "valoracion": 5,
+        "reseña": "Narrativa impecable, altamente recomendado"
+    },
+    {
+        "id_recurso": 14,
+        "id_usuario": 7,
+        "formato": "Película",
+        "id_contenido": 13,
+        "plataforma": "Netflix",
+        "estado": "En progreso",
+        "reseña": "Buena fotografía pero guión débil"
+    },
+    {
+        "id_recurso": 15,
+        "id_usuario": 8,
+        "formato": "Serie",
+        "id_contenido": 14,
+        "plataforma": "Prime Video",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-08-30",
+        "valoracion": 3,
+        "reseña": "Entretenida pero con altibajos"
+    },
+    {
+        "id_recurso": 16,
+        "id_usuario": 8,
+        "formato": "Libro",
+        "id_contenido": 15,
+        "plataforma": "Físico",
+        "estado": "Pendiente",
+        "reseña": "Lo siguiente en mi lista de lectura"
+    },
+    {
+        "id_recurso": 17,
+        "id_usuario": 9,
+        "formato": "Película",
+        "id_contenido": 16,
+        "plataforma": "Apple TV",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-09-14",
+        "valoracion": 4,
+        "reseña": "Excelentes actuaciones"
+    },
+    {
+        "id_recurso": 18,
+        "id_usuario": 9,
+        "formato": "Serie",
+        "id_contenido": 17,
+        "plataforma": "HBO Max",
+        "estado": "En progreso",
+        "reseña": "Muy original, me tiene enganchado"
+    },
+    {
+        "id_recurso": 19,
+        "id_usuario": 10,
+        "formato": "Libro",
+        "id_contenido": 18,
+        "plataforma": "Kindle",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-10-05",
+        "valoracion": 5,
+        "reseña": "No podía parar de leer, fascinante"
+    },
+    {
+        "id_recurso": 20,
+        "id_usuario": 10,
+        "formato": "Película",
+        "id_contenido": 19,
+        "plataforma": "Netflix",
+        "estado": "Pendiente",
+        "reseña": "Esperando el momento adecuado para verla"
+    },
+    {
+        "id_recurso": 21,
+        "id_usuario": 11,
+        "formato": "Serie",
+        "id_contenido": 20,
+        "plataforma": "Disney+",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-11-11",
+        "valoracion": 3,
+        "reseña": "Buena producción pero historia predecible"
+    },
+    {
+        "id_recurso": 22,
+        "id_usuario": 11,
+        "formato": "Libro",
+        "id_contenido": 1,
+        "plataforma": "Audible",
+        "estado": "En progreso",
+        "reseña": "Narración excelente, muy bien interpretada"
+    },
+    {
+        "id_recurso": 23,
+        "id_usuario": 12,
+        "formato": "Película",
+        "id_contenido": 2,
+        "plataforma": "Prime Video",
+        "estado": "Terminado",
+        "fecha_terminacion": "2023-12-01",
+        "valoracion": 4,
+        "reseña": "Superó mis expectativas"
+    },
+    {
+        "id_recurso": 24,
+        "id_usuario": 12,
+        "formato": "Serie",
+        "id_contenido": 3,
+        "plataforma": "HBO Max",
+        "estado": "Pendiente",
+        "reseña": "Todos me la recomiendan"
+    },
+    {
+        "id_recurso": 25,
+        "id_usuario": 13,
+        "formato": "Libro",
+        "id_contenido": 4,
+        "plataforma": "Físico",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-01-15",
+        "valoracion": 2,
+        "reseña": "No conecté con la historia"
+    },
+    {
+        "id_recurso": 26,
+        "id_usuario": 13,
+        "formato": "Película",
+        "id_contenido": 5,
+        "plataforma": "Netflix",
+        "estado": "En progreso",
+        "reseña": "Hasta ahora interesante"
+    },
+    {
+        "id_recurso": 27,
+        "id_usuario": 14,
+        "formato": "Serie",
+        "id_contenido": 6,
+        "plataforma": "Apple TV",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-02-20",
+        "valoracion": 5,
+        "reseña": "Absolutamente brillante en todos los aspectos"
+    },
+    {
+        "id_recurso": 28,
+        "id_usuario": 14,
+        "formato": "Libro",
+        "id_contenido": 7,
+        "plataforma": "Kindle",
+        "estado": "Pendiente",
+        "reseña": "Mi próxima lectura"
+    },
+    {
+        "id_recurso": 29,
+        "id_usuario": 15,
+        "formato": "Película",
+        "id_contenido": 8,
+        "plataforma": "Disney+",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-03-10",
+        "valoracion": 3,
+        "reseña": "Entretenida para pasar el rato"
+    },
+    {
+        "id_recurso": 30,
+        "id_usuario": 15,
+        "formato": "Serie",
+        "id_contenido": 9,
+        "plataforma": "HBO Max",
+        "estado": "En progreso",
+        "reseña": "Cada capítulo mejora"
+    },
+    {
+        "id_recurso": 31,
+        "id_usuario": 16,
+        "formato": "Libro",
+        "id_contenido": 10,
+        "plataforma": "Audible",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-04-05",
+        "valoracion": 4,
+        "reseña": "Muy buena narración"
+    },
+    {
+        "id_recurso": 32,
+        "id_usuario": 16,
+        "formato": "Película",
+        "id_contenido": 11,
+        "plataforma": "Prime Video",
+        "estado": "Pendiente",
+        "reseña": "En mi lista desde hace tiempo"
+    },
+    {
+        "id_recurso": 33,
+        "id_usuario": 17,
+        "formato": "Serie",
+        "id_contenido": 12,
+        "plataforma": "Netflix",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-05-12",
+        "valoracion": 5,
+        "reseña": "No podía esperar al próximo capítulo"
+    },
+    {
+        "id_recurso": 34,
+        "id_usuario": 17,
+        "formato": "Libro",
+        "id_contenido": 13,
+        "plataforma": "Físico",
+        "estado": "En progreso",
+        "reseña": "Lento al principio pero prometedor"
+    },
+    {
+        "id_recurso": 35,
+        "id_usuario": 18,
+        "formato": "Película",
+        "id_contenido": 14,
+        "plataforma": "Apple TV",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-06-18",
+        "valoracion": 2,
+        "reseña": "No cumplió con el libro"
+    },
+    {
+        "id_recurso": 36,
+        "id_usuario": 18,
+        "formato": "Serie",
+        "id_contenido": 15,
+        "plataforma": "Disney+",
+        "estado": "Pendiente",
+        "reseña": "La veré durante las vacaciones"
+    },
+    {
+        "id_recurso": 37,
+        "id_usuario": 19,
+        "formato": "Libro",
+        "id_contenido": 16,
+        "plataforma": "Kindle",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-07-22",
+        "valoracion": 3,
+        "reseña": "Interesante pero no extraordinario"
+    },
+    {
+        "id_recurso": 38,
+        "id_usuario": 19,
+        "formato": "Película",
+        "id_contenido": 17,
+        "plataforma": "HBO Max",
+        "estado": "En progreso",
+        "reseña": "Buena hasta ahora"
+    },
+    {
+        "id_recurso": 39,
+        "id_usuario": 20,
+        "formato": "Serie",
+        "id_contenido": 18,
+        "plataforma": "Prime Video",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-08-30",
+        "valoracion": 4,
+        "reseña": "Muy bien desarrollada"
+    },
+    {
+        "id_recurso": 40,
+        "id_usuario": 20,
+        "formato": "Libro",
+        "id_contenido": 19,
+        "plataforma": "Audible",
+        "estado": "Pendiente",
+        "reseña": "Próximo en mi lista de audiolibros"
+    },
+    {
+        "id_recurso": 41,
+        "id_usuario": 1,
+        "formato": "Película",
+        "id_contenido": 20,
+        "plataforma": "Netflix",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-09-14",
+        "valoracion": 5,
+        "reseña": "Impresionante cinematografía"
+    },
+    {
+        "id_recurso": 42,
+        "id_usuario": 2,
+        "formato": "Serie",
+        "id_contenido": 1,
+        "plataforma": "Apple TV",
+        "estado": "En progreso",
+        "reseña": "Cada capítulo es una sorpresa"
+    },
+    {
+        "id_recurso": 43,
+        "id_usuario": 3,
+        "formato": "Libro",
+        "id_contenido": 2,
+        "plataforma": "Físico",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-10-05",
+        "valoracion": 4,
+        "reseña": "Clásico que todos deberían leer"
+    },
+    {
+        "id_recurso": 44,
+        "id_usuario": 4,
+        "formato": "Película",
+        "id_contenido": 3,
+        "plataforma": "Disney+",
+        "estado": "Pendiente",
+        "reseña": "Esperando verla con mi familia"
+    },
+    {
+        "id_recurso": 45,
+        "id_usuario": 5,
+        "formato": "Serie",
+        "id_contenido": 4,
+        "plataforma": "HBO Max",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-11-11",
+        "valoracion": 3,
+        "reseña": "Buena pero no espectacular"
+    },
+    {
+        "id_recurso": 46,
+        "id_usuario": 6,
+        "formato": "Libro",
+        "id_contenido": 5,
+        "plataforma": "Kindle",
+        "estado": "En progreso",
+        "reseña": "Mantiene mi interés"
+    },
+    {
+        "id_recurso": 47,
+        "id_usuario": 7,
+        "formato": "Película",
+        "id_contenido": 6,
+        "plataforma": "Prime Video",
+        "estado": "Terminado",
+        "fecha_terminacion": "2024-12-01",
+        "valoracion": 2,
+        "reseña": "Esperaba más"
+    },
+    {
+        "id_recurso": 48,
+        "id_usuario": 8,
+        "formato": "Serie",
+        "id_contenido": 7,
+        "plataforma": "Netflix",
+        "estado": "Pendiente",
+        "reseña": "La próxima en mi lista"
+    },
+    {
+        "id_recurso": 49,
+        "id_usuario": 9,
+        "formato": "Libro",
+        "id_contenido": 8,
+        "plataforma": "Audible",
+        "estado": "Terminado",
+        "fecha_terminacion": "2025-01-15",
+        "valoracion": 5,
+        "reseña": "Narración excepcional"
+    },
+    {
+        "id_recurso": 50,
+        "id_usuario": 10,
+        "formato": "Película",
+        "id_contenido": 9,
+        "plataforma": "Apple TV",
+        "estado": "En progreso",
+        "reseña": "Hasta ahora interesante"
+    },
+    {
+        "id_recurso": 51,
+        "id_usuario": 11,
+        "formato": "Serie",
+        "id_contenido": 10,
+        "plataforma": "Disney+",
+        "estado": "Terminado",
+        "fecha_terminacion": "2025-02-20",
+        "valoracion": 4,
+        "reseña": "Muy bien escrita"
+    },
+    {
+        "id_recurso": 52,
+        "id_usuario": 12,
+        "formato": "Libro",
+        "id_contenido": 11,
+        "plataforma": "Físico",
+        "estado": "Pendiente",
+        "reseña": "Lo leeré en mis vacaciones"
+    },
+    {
+        "id_recurso": 53,
+        "id_usuario": 13,
+        "formato": "Película",
+        "id_contenido": 12,
+        "plataforma": "HBO Max",
+        "estado": "Terminado",
+        "fecha_terminacion": "2025-03-10",
+        "valoracion": 3,
+        "reseña": "Buena fotografía"
+    },
+    {
+        "id_recurso": 54,
+        "id_usuario": 14,
+        "formato": "Serie",
+        "id_contenido": 13,
+        "plataforma": "Prime Video",
+        "estado": "En progreso",
+        "reseña": "Me tiene enganchada"
+    },
+    {
+        "id_recurso": 55,
+        "id_usuario": 15,
+        "formato": "Libro",
+        "id_contenido": 14,
+        "plataforma": "Kindle",
+        "estado": "Terminado",
+        "fecha_terminacion": "2025-04-05",
+        "valoracion": 5,
+        "reseña": "Uno de mis favoritos ahora"
+    },
+    {
+        "id_recurso": 56,
+        "id_usuario": 16,
+        "formato": "Película",
+        "id_contenido": 15,
+        "plataforma": "Netflix",
+        "estado": "Pendiente",
+        "reseña": "Esperando verla con amigos"
+    },
+    {
+        "id_recurso": 57,
+        "id_usuario": 17,
+        "formato": "Serie",
+        "id_contenido": 16,
+        "plataforma": "Apple TV",
+        "estado": "Terminado",
+        "fecha_terminacion": "2025-05-12",
+        "valoracion": 4,
+        "reseña": "Final satisfactorio"
+    },
+    {
+        "id_recurso": 58,
+        "id_usuario": 18,
+        "formato": "Libro",
+        "id_contenido": 17,
+        "plataforma": "Audible",
+        "estado": "En progreso",
+        "reseña": "Narración cautivadora"
+    },
+    {
+        "id_recurso": 59,
+        "id_usuario": 19,
+        "formato": "Película",
+        "id_contenido": 18,
+        "plataforma": "Disney+",
+        "estado": "Terminado",
+        "fecha_terminacion": "2025-06-18",
+        "valoracion": 2,
+        "reseña": "No fue lo que esperaba"
+    },
+    {
+        "id_recurso": 60,
+        "id_usuario": 20,
+        "formato": "Serie",
+        "id_contenido": 19,
+        "plataforma": "HBO Max",
+        "estado": "Pendiente",
+        "reseña": "Todos hablan de ella, debo verla"
+    }
+]
