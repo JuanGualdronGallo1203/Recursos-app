@@ -1,0 +1,142 @@
+[
+    {
+        "id_serie": "1",
+        "titulo": "Breaking Bad",
+        "creador": "Vince Gilligan",
+        "generos_id": ["2", "9", "8"],
+        "sinopsis": "Un profesor de química con cáncer se convierte en narcotraficante para asegurar el futuro económico de su familia."
+    },
+    {
+        "id_serie": "2",
+        "titulo": "Juego de Tronos",
+        "creador": "David Benioff, D.B. Weiss",
+        "generos_id": ["6", "2", "15"],
+        "sinopsis": "Noblezas familiares luchan por el control del Trono de Hierro en los Siete Reinos de Westeros."
+    },
+    {
+        "id_serie": "3",
+        "titulo": "Stranger Things",
+        "creador": "The Duffer Brothers",
+        "generos_id": ["5", "20", "19"],
+        "sinopsis": "Un grupo de niños enfrenta fuerzas sobrenaturales cuando su amigo desaparece misteriosamente."
+    },
+    {
+        "id_serie": "4",
+        "titulo": "The Office (US)",
+        "creador": "Greg Daniels",
+        "generos_id": ["3", "7"],
+        "sinopsis": "La vida cotidiana de los excéntricos empleados de una empresa papelera en Scranton, Pennsylvania."
+    },
+    {
+        "id_serie": "5",
+        "titulo": "The Mandalorian",
+        "creador": "Jon Favreau",
+        "generos_id": ["5", "11", "6"],
+        "sinopsis": "Un cazarrecompensas solitario trabaja en los confines de la galaxia, lejos de la autoridad de la Nueva República."
+    },
+    {
+        "id_serie": "6",
+        "titulo": "Black Mirror",
+        "creador": "Charlie Brooker",
+        "generos_id": ["5", "25", "8"],
+        "sinopsis": "Antología que explora un futuro distópico donde la tecnología tiene consecuencias imprevistas en la sociedad."
+    },
+    {
+        "id_serie": "7",
+        "titulo": "Friends",
+        "creador": "David Crane, Marta Kauffman",
+        "generos_id": ["3", "7"],
+        "sinopsis": "Las vidas, amores y desventuras de seis amigos que viven en Manhattan."
+    },
+    {
+        "id_serie": "8",
+        "titulo": "The Crown",
+        "creador": "Peter Morgan",
+        "generos_id": ["2", "14", "15"],
+        "sinopsis": "Drama histórico que sigue el reinado de la Reina Isabel II y los eventos que dieron forma al siglo XX."
+    },
+    {
+        "id_serie": "9",
+        "titulo": "The Witcher",
+        "creador": "Lauren Schmidt Hissrich",
+        "generos_id": ["6", "11", "20"],
+        "sinopsis": "Un cazador de monstruos mutante viaja por un mundo de fantasía lleno de magia y peligros."
+    },
+    {
+        "id_serie": "10",
+        "titulo": "House M.D.",
+        "creador": "David Shore",
+        "generos_id": ["2", "22", "10"],
+        "sinopsis": "Un genio médico misántropo diagnostica casos médicos inexplicables con su equipo en un hospital de Princeton."
+    },
+    {
+        "id_serie": "11",
+        "titulo": "The Walking Dead",
+        "creador": "Frank Darabont",
+        "generos_id": ["4", "25", "2"],
+        "sinopsis": "Un grupo de sobrevivientes intenta mantenerse con vida en un mundo post-apocalíptico dominado por zombis."
+    },
+    {
+        "id_serie": "12",
+        "titulo": "Sherlock",
+        "creador": "Mark Gatiss, Steven Moffat",
+        "generos_id": ["10", "9", "8"],
+        "sinopsis": "Una versión moderna del famoso detective Sherlock Holmes y su compañero el Dr. Watson resuelven crímenes en Londres."
+    },
+    {
+        "id_serie": "13",
+        "titulo": "La Casa de Papel",
+        "creador": "Álex Pina",
+        "generos_id": ["1", "8", "9"],
+        "sinopsis": "Un enigmático hombre conocido como 'El Profesor' planea el mayor atraco de la historia en la Fábrica Nacional de Moneda."
+    },
+    {
+        "id_serie": "14",
+        "titulo": "The Big Bang Theory",
+        "creador": "Chuck Lorre, Bill Prady",
+        "generos_id": ["3", "7"],
+        "sinopsis": "La vida de un grupo de científicos socialmente torpes pero brillantes y su interacción con el mundo que los rodea."
+    },
+    {
+        "id_serie": "15",
+        "titulo": "Dark",
+        "creador": "Baran bo Odar, Jantje Friese",
+        "generos_id": ["5", "20", "8"],
+        "sinopsis": "La desaparición de dos niños expone los secretos y las conexiones ocultas entre cuatro familias en un pequeño pueblo alemán."
+    },
+    {
+        "id_serie": "16",
+        "titulo": "Grey's Anatomy",
+        "creador": "Shonda Rhimes",
+        "generos_id": ["2", "7", "22"],
+        "sinopsis": "Los dramas personales y profesionales de los médicos del Grey Sloan Memorial Hospital en Seattle."
+    },
+    {
+        "id_serie": "17",
+        "titulo": "The Boys",
+        "creador": "Eric Kripke",
+        "generos_id": ["1", "5", "25"],
+        "sinopsis": "Un grupo de vigilantes lucha contra superhéroes corruptos que abusan de sus poderes en lugar de usarlos para el bien."
+    },
+    {
+        "id_serie": "18",
+        "titulo": "Peaky Blinders",
+        "creador": "Steven Knight",
+        "generos_id": ["2", "9", "15"],
+        "sinopsis": "Una familia gánster de Birmingham, Inglaterra, en los años posteriores a la Primera Guerra Mundial."
+    },
+    {
+        "id_serie": "19",
+        "titulo": "The Simpsons",
+        "creador": "Matt Groening",
+        "generos_id": ["3", "17", "19"],
+        "sinopsis": "Las satíricas aventuras de una familia disfuncional de clase trabajadora en la ciudad ficticia de Springfield."
+    },
+    {
+        "id_serie": "20",
+        "titulo": "Westworld",
+        "creador": "Jonathan Nolan, Lisa Joy",
+        "generos_id": ["5", "25", "8"],
+        "sinopsis": "En un parque temático futurista poblado por androides, los invitados adinerados pueden vivir sus fantasías sin consecuencias."
+    }
+]
